@@ -3,3 +3,11 @@
 .idea/modules.xml
 .idea/workspace.xml
 .idea/vcs.xml
+.idea/DrowningSurveillance-InceptionV3.iml
+.idea/DrowningSurveillance-InceptionV3.iml
+/bottlenecks/
+/inception/
+/material/
+/test/
+retrained_graph.pb
+retrained_labels.txt
