@@ -8,6 +8,7 @@
 /bottlenecks/
 /inception/
 /material/
+/data/
 /test/
 retrained_graph.pb
 retrained_labels.txt
