@@ -1,0 +1,98 @@
+{
+    "./drowning/20000.jpg": [
+        "drowning (score = 0.98971)",
+        "normal (score = 0.01029)"
+    ],
+    "./drowning/20020.jpg": [
+        "drowning (score = 0.89107)",
+        "normal (score = 0.10893)"
+    ],
+    "./drowning/20040.jpg": [
+        "drowning (score = 0.97078)",
+        "normal (score = 0.02922)"
+    ],
+    "./drowning/20060.jpg": [
+        "drowning (score = 0.50795)",
+        "normal (score = 0.49205)"
+    ],
+    "./drowning/20080.jpg": [
+        "drowning (score = 0.83974)",
+        "normal (score = 0.16026)"
+    ],
+    "./drowning/20100.jpg": [
+        "drowning (score = 0.66518)",
+        "normal (score = 0.33482)"
+    ],
+    "./drowning/20120.jpg": [
+        "drowning (score = 0.96340)",
+        "normal (score = 0.03660)"
+    ],
+    "./drowning/20140.jpg": [
+        "drowning (score = 0.73600)",
+        "normal (score = 0.26400)"
+    ],
+    "./drowning/20400.jpg": [
+        "drowning (score = 0.91605)",
+        "normal (score = 0.08395)"
+    ],
+    "./drowning/20420.jpg": [
+        "drowning (score = 0.99902)",
+        "normal (score = 0.00098)"
+    ],
+    "./drowning/20440.jpg": [
+        "drowning (score = 0.99411)",
+        "normal (score = 0.00589)"
+    ],
+    "./drowning/20460.jpg": [
+        "drowning (score = 0.99985)",
+        "normal (score = 0.00014)"
+    ],
+    "./drowning/20480.jpg": [
+        "drowning (score = 0.99940)",
+        "normal (score = 0.00060)"
+    ],
+    "./drowning/20500.jpg": [
+        "drowning (score = 0.99910)",
+        "normal (score = 0.00090)"
+    ],
+    "./drowning/20520.jpg": [
+        "drowning (score = 0.99992)",
+        "normal (score = 0.00008)"
+    ],
+    "./drowning/20540.jpg": [
+        "drowning (score = 0.99358)",
+        "normal (score = 0.00642)"
+    ],
+    "./drowning/20560.jpg": [
+        "drowning (score = 0.98112)",
+        "normal (score = 0.01888)"
+    ],
+    "./normal/20580.jpg": [
+        "drowning (score = 0.74537)",
+        "normal (score = 0.25463)"
+    ],
+    "./normal/20600.jpg": [
+        "drowning (score = 0.73912)",
+        "normal (score = 0.26088)"
+    ],
+    "./normal/20620.jpg": [
+        "drowning (score = 0.87999)",
+        "normal (score = 0.12001)"
+    ],
+    "./normal/20640.jpg": [
+        "drowning (score = 0.95566)",
+        "normal (score = 0.04434)"
+    ],
+    "./normal/20660.jpg": [
+        "normal (score = 0.87487)",
+        "drowning (score = 0.12513)"
+    ],
+    "./normal/20680.jpg": [
+        "normal (score = 0.93867)",
+        "drowning (score = 0.06133)"
+    ],
+    "./normal/20700.jpg": [
+        "normal (score = 0.53992)",
+        "drowning (score = 0.46008)"
+    ]
+}

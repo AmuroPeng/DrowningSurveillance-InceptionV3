@@ -1,0 +1,218 @@
+{
+    "./drowning/12700.jpg": [
+        "drowning (score = 0.62248)",
+        "normal (score = 0.37752)"
+    ],
+    "./drowning/12720.jpg": [
+        "drowning (score = 0.77597)",
+        "normal (score = 0.22403)"
+    ],
+    "./drowning/12740.jpg": [
+        "drowning (score = 0.98390)",
+        "normal (score = 0.01610)"
+    ],
+    "./drowning/12760.jpg": [
+        "drowning (score = 0.71806)",
+        "normal (score = 0.28194)"
+    ],
+    "./drowning/12780.jpg": [
+        "drowning (score = 0.76349)",
+        "normal (score = 0.23651)"
+    ],
+    "./drowning/12800.jpg": [
+        "drowning (score = 0.54165)",
+        "normal (score = 0.45835)"
+    ],
+    "./drowning/12820.jpg": [
+        "drowning (score = 0.63982)",
+        "normal (score = 0.36018)"
+    ],
+    "./drowning/12840.jpg": [
+        "drowning (score = 0.94581)",
+        "normal (score = 0.05419)"
+    ],
+    "./drowning/12860.jpg": [
+        "drowning (score = 0.91392)",
+        "normal (score = 0.08608)"
+    ],
+    "./drowning/12880.jpg": [
+        "drowning (score = 0.78748)",
+        "normal (score = 0.21252)"
+    ],
+    "./drowning/12900.jpg": [
+        "drowning (score = 0.84408)",
+        "normal (score = 0.15592)"
+    ],
+    "./drowning/12920.jpg": [
+        "drowning (score = 0.68705)",
+        "normal (score = 0.31295)"
+    ],
+    "./drowning/12940.jpg": [
+        "drowning (score = 0.69610)",
+        "normal (score = 0.30390)"
+    ],
+    "./drowning/12960.jpg": [
+        "drowning (score = 0.90586)",
+        "normal (score = 0.09414)"
+    ],
+    "./drowning/12980.jpg": [
+        "drowning (score = 0.78785)",
+        "normal (score = 0.21215)"
+    ],
+    "./drowning/13000.jpg": [
+        "drowning (score = 0.97136)",
+        "normal (score = 0.02864)"
+    ],
+    "./drowning/13020.jpg": [
+        "drowning (score = 0.78827)",
+        "normal (score = 0.21173)"
+    ],
+    "./drowning/13040.jpg": [
+        "drowning (score = 0.89715)",
+        "normal (score = 0.10285)"
+    ],
+    "./drowning/13060.jpg": [
+        "drowning (score = 0.97203)",
+        "normal (score = 0.02797)"
+    ],
+    "./drowning/13080.jpg": [
+        "normal (score = 0.91827)",
+        "drowning (score = 0.08173)"
+    ],
+    "./drowning/13100.jpg": [
+        "drowning (score = 0.88839)",
+        "normal (score = 0.11161)"
+    ],
+    "./drowning/13120.jpg": [
+        "drowning (score = 0.98747)",
+        "normal (score = 0.01253)"
+    ],
+    "./drowning/13140.jpg": [
+        "drowning (score = 0.84927)",
+        "normal (score = 0.15073)"
+    ],
+    "./drowning/13160.jpg": [
+        "drowning (score = 0.60637)",
+        "normal (score = 0.39363)"
+    ],
+    "./drowning/13180.jpg": [
+        "drowning (score = 0.85798)",
+        "normal (score = 0.14202)"
+    ],
+    "./drowning/13200.jpg": [
+        "drowning (score = 0.93998)",
+        "normal (score = 0.06002)"
+    ],
+    "./drowning/13220.jpg": [
+        "drowning (score = 0.81042)",
+        "normal (score = 0.18958)"
+    ],
+    "./drowning/13240.jpg": [
+        "drowning (score = 0.94399)",
+        "normal (score = 0.05601)"
+    ],
+    "./drowning/13260.jpg": [
+        "normal (score = 0.84045)",
+        "drowning (score = 0.15955)"
+    ],
+    "./drowning/13280.jpg": [
+        "normal (score = 0.89367)",
+        "drowning (score = 0.10633)"
+    ],
+    "./drowning/13300.jpg": [
+        "normal (score = 0.97602)",
+        "drowning (score = 0.02398)"
+    ],
+    "./drowning/13320.jpg": [
+        "normal (score = 0.67395)",
+        "drowning (score = 0.32605)"
+    ],
+    "./drowning/13340.jpg": [
+        "drowning (score = 0.53119)",
+        "normal (score = 0.46881)"
+    ],
+    "./normal/13780.jpg": [
+        "drowning (score = 0.96940)",
+        "normal (score = 0.03060)"
+    ],
+    "./normal/13800.jpg": [
+        "drowning (score = 0.99123)",
+        "normal (score = 0.00877)"
+    ],
+    "./normal/13820.jpg": [
+        "drowning (score = 0.84853)",
+        "normal (score = 0.15147)"
+    ],
+    "./normal/13840.jpg": [
+        "drowning (score = 0.98413)",
+        "normal (score = 0.01587)"
+    ],
+    "./normal/13860.jpg": [
+        "normal (score = 0.96343)",
+        "drowning (score = 0.03657)"
+    ],
+    "./normal/13880.jpg": [
+        "drowning (score = 0.95930)",
+        "normal (score = 0.04070)"
+    ],
+    "./normal/13900.jpg": [
+        "drowning (score = 0.92052)",
+        "normal (score = 0.07948)"
+    ],
+    "./normal/13920.jpg": [
+        "drowning (score = 0.93271)",
+        "normal (score = 0.06729)"
+    ],
+    "./normal/13940.jpg": [
+        "normal (score = 0.95009)",
+        "drowning (score = 0.04991)"
+    ],
+    "./normal/13960.jpg": [
+        "normal (score = 0.76065)",
+        "drowning (score = 0.23935)"
+    ],
+    "./normal/13980.jpg": [
+        "drowning (score = 0.91639)",
+        "normal (score = 0.08361)"
+    ],
+    "./normal/14000.jpg": [
+        "drowning (score = 0.90174)",
+        "normal (score = 0.09826)"
+    ],
+    "./normal/14020.jpg": [
+        "drowning (score = 0.85132)",
+        "normal (score = 0.14868)"
+    ],
+    "./normal/14040.jpg": [
+        "normal (score = 0.64396)",
+        "drowning (score = 0.35604)"
+    ],
+    "./normal/14060.jpg": [
+        "normal (score = 0.79605)",
+        "drowning (score = 0.20395)"
+    ],
+    "./normal/14080.jpg": [
+        "normal (score = 0.85582)",
+        "drowning (score = 0.14418)"
+    ],
+    "./normal/14100.jpg": [
+        "normal (score = 0.65071)",
+        "drowning (score = 0.34929)"
+    ],
+    "./normal/14120.jpg": [
+        "drowning (score = 0.65062)",
+        "normal (score = 0.34938)"
+    ],
+    "./normal/14140.jpg": [
+        "drowning (score = 0.69300)",
+        "normal (score = 0.30700)"
+    ],
+    "./normal/14160.jpg": [
+        "normal (score = 0.76303)",
+        "drowning (score = 0.23697)"
+    ],
+    "./normal/14180.jpg": [
+        "normal (score = 0.78206)",
+        "drowning (score = 0.21794)"
+    ]
+}
