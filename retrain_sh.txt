@@ -1,0 +1,35 @@
+python ./retrain.py \ --bottleneck_dir=./bottlenecks \ --how_many_training_steps 4000 \ --model_dir=./Inception \ --output_graph=./retrained_graph.pb \ --output_labels=./retrained_labels.txt \ --image_dir ./data
+
+
+python ./label.py ./test/1.jpg
+
+2860
+normal (score = 0.99466)
+drowning (score = 0.00534)
+3080
+drowning (score = 0.99719)
+normal (score = 0.00281)
+4400
+drowning (score = 0.99692)
+normal (score = 0.00308)
+6480
+normal (score = 0.96926)
+drowning (score = 0.03074)
+7600
+drowning (score = 0.94048)
+normal (score = 0.05952)
+9340
+drowning (score = 0.97887)
+normal (score = 0.02113)
+10160
+normal (score = 0.94781)
+drowning (score = 0.05219)
+13080
+drowning (score = 0.96725)
+normal (score = 0.03275)
+13940
+normal (score = 0.99351)
+drowning (score = 0.00649)
+21380
+normal (score = 0.99534)
+drowning (score = 0.00466)

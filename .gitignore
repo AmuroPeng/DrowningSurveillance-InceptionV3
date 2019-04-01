@@ -12,3 +12,5 @@
 /test/
 retrained_graph.pb
 retrained_labels.txt
+
+/test/README.md
